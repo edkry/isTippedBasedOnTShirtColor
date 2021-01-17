@@ -15,7 +15,8 @@ In our dataset we have these variables:
 **Note:** when every variable black, white, yellow, blue and green are equal to zero, it that waitress is wearing red t-shirt.
 ** Dataset report: **
 
-![alt text](http://prntscr.com/wyx626)
+![image](https://user-images.githubusercontent.com/39278922/104834335-509a3c00-58a7-11eb-84a6-5eea1565a426.png)
+
 
 
 Here sampsz variable indicates, how many observations we have of each group.
